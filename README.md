@@ -1,2 +1,2 @@
 # Data Analysis
-I will upload some data analysis items here from time to time.
+I'll upload some data-analysis projects here from time to time.
